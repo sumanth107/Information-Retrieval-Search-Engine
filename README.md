@@ -3,7 +3,7 @@ Implemented an robust IR System from scratch.
 # Evaluation
 Evaluated the performance of the IR System on the Cranfield Dataset.
 # Methods Implemented
-Markup : * Vector Space Model (VSM)
+* Vector Space Model (VSM)
 * Spellcheck
 * Query Expansion
 * Latent Semantic Analysis (LSA)
